@@ -1,5 +1,3 @@
-# 6 – Random Password generator
-
 import secrets
 import string
 
